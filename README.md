@@ -20,12 +20,11 @@ The following required functionality is completed:
 Video Walkthrough
 Here's a walkthrough of the implemented features:
 
-<img src= ![Kapture 2024-01-30 at 23 36 31](https://github.com/user-attachments/assets/fbd025f6-97e7-49f2-9443-0cbf63e51970)
- />
+https://imgur.com/a/ZVlKXNh
 
-GIF created with [KAP]
+GIF created with imugr
 Notes
-No challenges were faced.
+
 
 ## License
 
